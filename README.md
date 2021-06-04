@@ -3,9 +3,9 @@
   적응력이 빠르며 협업하는데 자신있습니다.
 
 ## 소개
- 성명/    유병욱 >
- 이메일/  bllo0528@gmail.com >
- github/  https://github.com/YuBUchobab/ >
+ > 성명/    유병욱 
+ > 이메일/  bllo0528@gmail.com 
+ > github/  https://github.com/YuBUchobab/ 
  
 
 ## 경력사항
